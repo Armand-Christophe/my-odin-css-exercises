@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.odd{
+    background-color: #FF8B8B;
+}
+#first-id{
+  color: #2F2A71;
+  font-size: 36; 
+}
+.second-class{
+    font-size: 24;
+}
+#second-id{
+    background-color: #C2F3D7 ;
+}
